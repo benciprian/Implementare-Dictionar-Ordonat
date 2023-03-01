@@ -1,1 +1,1 @@
-# Implementare-Dictionar-Ordonat la cazul general in limbajul Java
+# Implementarea containerului Dictionar Ordonat la cazul general folosind limbajul Java.
